@@ -1,3 +1,5 @@
+![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/0232c1f9-0c14-44c4-af0e-df7f510e4415)
+
 Pizza Sales Dashboard & KPI Analysis
 This project focuses on analyzing pizza sales data to gain insights into business performance by calculating key metrics and visualizing trends. The analysis was conducted using SQL to extract and test KPIs, while Excel was used to create a dynamic dashboard.
 
